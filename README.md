@@ -92,10 +92,10 @@ DevOps tools like **Docker**, **Kubernetes**, and modern **React.js** best pract
 ### 🌐 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar.mk16@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/sivasankar-m-69844523b/)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![GitHub](https://github.com/himate111)](https://github.com/YOUR_GITHUB_USERNAME)  
+[![LeetCode](https://leetcode.com/u/himate/)](https://leetcode.com/YOUR_LEETCODE)  
+[![Email]()](mailto:sivashankar.mk16@gmail.com)
 
 </div>
 
