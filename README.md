@@ -81,9 +81,9 @@ DevOps tools like **Docker**, **Kubernetes**, and modern **React.js** best pract
 ### 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himate111&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himate111&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himate111&theme=tokyonight)
 
 </div>
 
@@ -92,13 +92,14 @@ DevOps tools like **Docker**, **Kubernetes**, and modern **React.js** best pract
 ### 🌐 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/sivasankar-m-69844523b/)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![GitHub](https://github.com/himate111)](https://github.com/YOUR_GITHUB_USERNAME)  
-[![LeetCode](https://leetcode.com/u/himate/)](https://leetcode.com/YOUR_LEETCODE)  
-[![Email]()](mailto:sivashankar.mk16@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Sivasankar%20M-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sivasankar-m-69844523b)  
+[![GitHub Badge](https://img.shields.io/badge/-himate111-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himate111)  
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/himate/)  
+[![Gmail Badge](https://img.shields.io/badge/-sivashankar.mk16@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivashankar.mk16@gmail.com)
 
 </div>
 
 ---
 
 ⭐ *“Code. Learn. Build. Repeat.”*
+
